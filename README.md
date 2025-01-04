@@ -1,6 +1,16 @@
 En JS los datos asignados a una variable pueden ser de dos tipos:
 
-Primitive type (undefined, null, boolean, number, string, symbol), Reference type (objects, arrays , functions).
+1. **Primitive Type**: 
+   - `undefined`
+   - `null`
+   - `boolean`
+   - `number`
+   - `string`
+   - `symbol`
+2. **Reference Type**: 
+   - `objects`
+   - `arrays`
+   - `functions`
 
 Una de las diferencia entre estas dos, está en la forma como se almacenan estos datos en memoria, para ser más claro un ejemplo.
 
@@ -21,9 +31,9 @@ Ahora si creamos la variable ```person``` como un objeto que contiene un name, y
 
 Ahora si entendamos ```Mutable o Inmutable```.
 
-Mutable: es algo que se puede cambiar o agregar.
+**Mutable:** es algo que se puede cambiar o agregar.
 
-Inmutable: es algo que no puede cambiar ni agregar.
+**Inmutable:** es algo que no puede cambiar ni agregar.
 
 Los valores primitivos en js son algo agregado donde solo se pueden reasignar y por lo tanto, todos estos valores son ```inmutables```. 
 
