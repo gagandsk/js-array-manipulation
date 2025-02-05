@@ -73,4 +73,9 @@ let person2 = {...person}
 
 ### MAP
 
-El método map consiste en crear un nuevo array a partir de los elementos originales transformados mediante una función (callback) y es inmutable.
+El método map consiste en crear un nuevo array a partir de los elementos originales transformados mediante una función (callback) y es **inmutable**.
+
+### Reduce
+
+El método reduce es **inmutable** y consiste retornar un solo valor del array iterado a partir de una función (callback) que indica de qué manera se itera cada elemento para reducirlo.
+
