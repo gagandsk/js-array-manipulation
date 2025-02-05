@@ -70,3 +70,7 @@ En es6 se creo un operador de propagación que permirte copias un objeto de form
 ```
 let person2 = {...person}
 ```
+
+### MAP
+
+El método map consiste en crear un nuevo array a partir de los elementos originales transformados mediante una función (callback) y es inmutable.
