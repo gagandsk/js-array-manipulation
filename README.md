@@ -31,7 +31,7 @@ Ahora si creamos la variable ```person``` como un objeto que contiene un name, y
 
 Ahora si entendamos ```Mutable o Inmutable```.
 
-**Mutable:** es algo que se puede cambiar o agregar.
+**Mutable:** es algo que se puede cambiar o agregar. Las funciones mutables consisten en cambiar el array original
 
 **Inmutable:** es algo que no puede cambiar ni agregar.
 
