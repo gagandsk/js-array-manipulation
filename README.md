@@ -79,3 +79,8 @@ El método map consiste en crear un nuevo array a partir de los elementos origin
 
 El método reduce es **inmutable** y consiste retornar un solo valor del array iterado a partir de una función (callback) que indica de qué manera se itera cada elemento para reducirlo.
 
+
+### Find y FindIndex
+Los métodos find y findIndex consisten en encontrar el primer elemento de un array que cumpla con la condición especificada en la función (callback).
+
+En el caso de find retornará el elemento completo, si cumple con la condición, caso contrario retornará undefined. El método findIndex retornará el índice del elemento encontrado, caso contrario retornará -1.
